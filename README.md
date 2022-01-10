@@ -17,4 +17,4 @@ In diesem Programm wurde eine Funktion erstellt, welche zu einer Uhrzeit beliebi
 
 **Reflexion**
 
-In den letzten Wochen haben wir gelernt Programme mit Python zu schreiben, zu verstehen und sie darzustellen. Ich habe unteranderem festgestellt, dass Informatik nicht nur den Umgang mit Word oder PowerPoint umfasst, sondern Informatik die Grundlage für ALLES technische ist und somit ein sehr umfangreiches Fach ist. Ebenfalls habe ich bemerkt, dass Informatik sehr anspruchsvoll ist und es viel Geduld braucht.
+In den letzten Wochen haben wir gelernt Programme mit Python zu schreiben, zu verstehen und sie darzustellen. Ich habe unteranderem festgestellt, dass Informatik nicht nur den Umgang mit Word oder PowerPoint umfasst, sondern Informatik die Grundlage für **alles** technische ist und somit ein sehr umfangreicher Themenbereich ist. Ebenfalls habe ich bemerkt, dass Informatik sehr anspruchsvoll ist und es viel Geduld braucht.
