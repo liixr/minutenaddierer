@@ -8,7 +8,7 @@ In diesem Programm wurde eine Funktion erstellt, welche zu einer Uhrzeit beliebi
 
 **Features**
 * Das Programm kann eine beliebige Zahl zu einer Uhrzeit addieren.
-* Es addiert mit einem speziellen Rechnungsweg. 
+* Es rechnet mit einem speziellen Rechnungsweg. 
   Zuerst werden die Stunden ausgerechnet, indem 60 dem Summand subtrahiert wird und den Stunden 1 abgezogen wird. Wenn die Stunden über 60 sind, werden die Stunden wie folgt berechnet: Zu den Stunden wird eins addiert und die Minuten und der Summand wird addiert und mit 60 subtrahiert. Wenn die Stunden aber nicht über 60 sind, wird der Summand und die Minuten addiert.
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/97455334/148789819-59a15ee8-b357-433f-9caf-b7c53610f320.png">
 
